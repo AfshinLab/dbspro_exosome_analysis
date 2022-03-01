@@ -1,0 +1,6 @@
+Sample	Reads	FastqPath
+Hash1_4xA	1407684	/Users/pontus.hojer/analysis/DBS-Pro_Exosomes/210317_DBS-Pro_P20414/rawdata/P20414/P20414_1001/02-FASTQ/210316_M01548_0383_000000000-JJFHD/P20414_1001_S1_L001_R1_001.fastq.gz
+Pash1_4xA	1690871	/Users/pontus.hojer/analysis/DBS-Pro_Exosomes/210317_DBS-Pro_P20414/rawdata/P20414/P20414_1002/02-FASTQ/210316_M01548_0383_000000000-JJFHD/P20414_1002_S2_L001_R1_001.fastq.gz
+Hash2_4xA	1810909	/Users/pontus.hojer/analysis/DBS-Pro_Exosomes/210317_DBS-Pro_P20414/rawdata/P20414/P20414_1003/02-FASTQ/210316_M01548_0383_000000000-JJFHD/P20414_1003_S3_L001_R1_001.fastq.gz
+Hashing2_2x_B_C	1560185	/Users/pontus.hojer/analysis/DBS-Pro_Exosomes/211116_DBS-Pro_Hashing_reanalysis/P20414_1004_1005_merge.fastq.gz
+Pashing2_2x_D_E	2239036	/Users/pontus.hojer/analysis/DBS-Pro_Exosomes/211116_DBS-Pro_Hashing_reanalysis/P20414_1006_1007_merge.fastq.gz
